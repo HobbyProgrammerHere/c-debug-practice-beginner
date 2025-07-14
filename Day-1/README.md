@@ -23,7 +23,7 @@ Test your changes until the output matches the expected result.
 
 ## Video Walkthrough
 Watch the full explanation here:  
-[YouTube Link – Debug Practice Day 1](#)
+[YouTube Link – Debug Practice Day 1](https://youtu.be/SaqtttImbA0)
 
 ## Files
 - `main.c` – Buggy program
