@@ -11,13 +11,13 @@ This repository contains beginner-friendly C programs intentionally written with
 Each folder/day contains:
 
 - `main.c` → The C program you need to debug  
-- `task.txt` → Description of the program, expected vs actual output, and task instructions
+- `README.md` → Description of the program, expected vs actual output, and task instructions
 
 ---
 
 ## 🎯 How to Use
 
-1. **Read `task.txt` carefully** to understand what the program is supposed to do.
+1. **Read `README.md` carefully** to understand what the program is supposed to do.
 2. Open `main.c`, study the code, and try to **identify and fix the bugs**.
 3. Test the corrected version to match the expected output.
 4. Watch the corresponding **YouTube walkthrough** to compare your debugging process.
